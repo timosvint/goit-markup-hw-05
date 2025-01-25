@@ -855,13 +855,7 @@ body {
     background-origin: border-box;
 }
 
-.name-n-3 {
-    color: rgba(142, 143, 153, 1);
-    font-size: 12px;
-    letter-spacing: 4%;
-    line-height: 1.16;
-    margin-left: 8px;
-}
+
 
 .check-input {
     position: absolute;
